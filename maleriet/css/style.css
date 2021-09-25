@@ -1,0 +1,41 @@
+body{
+    font-family:helvetica; 
+    padding: 200px;
+}
+
+#maleriet{
+    font-size: 100px; 
+    font-weight: bold; 
+    color: khaki;
+    text-align: center;
+    background-image: url(/images/pattern.jpeg);
+}
+
+#pensler{
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: mediumspringgreen;
+    padding: 10px;
+}
+
+#rammer{
+    font-family: Helvetica; 
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+#maling{
+    font-family: Helvetica; 
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: skyblue;
+    padding: 10px;
+}
+.blue{
+    color: blue;
+}
